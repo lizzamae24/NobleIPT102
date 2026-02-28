@@ -1,0 +1,47 @@
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.deps.json
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.dll
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.pdb
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfoInputs.cache
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfo.cs
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.csproj.CoreCompileInputs.cache
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.sourcelink.json
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.dll
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\refint\NobleFinalDomain.dll
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.pdb
+C:\Users\noble\OneDrive\Documents\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\ref\NobleFinalDomain.dll
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.deps.json
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.dll
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.pdb
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfoInputs.cache
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfo.cs
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.csproj.CoreCompileInputs.cache
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.sourcelink.json
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.dll
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\refint\NobleFinalDomain.dll
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.pdb
+D:\Sajor\projects\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\ref\NobleFinalDomain.dll
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.deps.json
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.dll
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.pdb
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfoInputs.cache
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfo.cs
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.csproj.CoreCompileInputs.cache
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.dll
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\refint\NobleFinalDomain.dll
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.pdb
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\NobleFinalDomain\obj\Debug\net9.0\ref\NobleFinalDomain.dll
+D:\New folder\Noble\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.deps.json
+D:\New folder\Noble\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.dll
+D:\New folder\Noble\NobleFinalDomain\bin\Debug\net9.0\NobleFinalDomain.pdb
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfoInputs.cache
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.AssemblyInfo.cs
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.csproj.CoreCompileInputs.cache
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.sourcelink.json
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.dll
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\refint\NobleFinalDomain.dll
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\NobleFinalDomain.pdb
+D:\New folder\Noble\NobleFinalDomain\obj\Debug\net9.0\ref\NobleFinalDomain.dll
