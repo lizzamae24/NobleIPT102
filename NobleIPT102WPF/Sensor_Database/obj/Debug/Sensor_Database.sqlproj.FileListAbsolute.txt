@@ -1,0 +1,16 @@
+D:\Sajor\NobleIPT101\Sensor_Database\bin\Debug\Sensor_Database.dacpac
+D:\Sajor\NobleIPT101\Sensor_Database\bin\Debug\Sensor_Database.dll
+D:\Sajor\NobleIPT101\Sensor_Database\bin\Debug\Sensor_Database.pdb
+D:\Sajor\NobleIPT101\Sensor_Database\obj\Debug\Sensor_Database.sqlproj.AssemblyReference.cache
+D:\Sajor\NobleIPT101\Sensor_Database\obj\Debug\Model.xml
+D:\Sajor\NobleIPT101\Sensor_Database\obj\Debug\refactor.xml
+D:\Sajor\NobleIPT101\Sensor_Database\obj\Debug\postdeploy.sql
+D:\Sajor\NobleIPT101\Sensor_Database\obj\Debug\predeploy.sql
+D:\Sajor\NobleIPT101\Sensor_Database\obj\Debug\Sensor_Database.dll
+D:\Sajor\NobleIPT101\Sensor_Database\obj\Debug\Sensor_Database.pdb
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\Sensor_Database\bin\Debug\Sensor_Database.dacpac
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\Sensor_Database\bin\Debug\Sensor_Database.dll
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\Sensor_Database\bin\Debug\Sensor_Database.pdb
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\Sensor_Database\obj\Debug\Sensor_Database.sqlproj.AssemblyReference.cache
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\Sensor_Database\obj\Debug\Sensor_Database.dll
+C:\Users\noble\OneDrive\Documents\Final\NobleIPT\Sensor_Database\obj\Debug\Sensor_Database.pdb
